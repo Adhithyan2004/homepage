@@ -104,4 +104,29 @@ h2{
 .card-subtext{
     text-align: center;
     margin-top: -15px;
+    font-size: 18px;
+}
+
+.quote-wrapper{
+    background: #e5e7eb;
+}
+
+.quote-card{
+    display: flex;
+    flex-direction: column;
+    margin: 100px ;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.quote-author{
+    font-weight: 900;
+    align-self: flex-end;
 }
