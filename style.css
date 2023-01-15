@@ -73,3 +73,35 @@ p{
 .akatsuki-card{
     align-self: center;
 }
+
+.card-wrapper{
+    margin: 100px;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: -50px;
+    color: #1f2937;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-image{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    border: solid #3882f6;
+}
+
+.card-subtext{
+    text-align: center;
+    margin-top: -15px;
+}
