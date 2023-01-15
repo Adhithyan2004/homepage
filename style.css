@@ -130,3 +130,50 @@ h2{
     font-weight: 900;
     align-self: flex-end;
 }
+
+.sign-in-now-wrapper{
+    margin: 100px;
+}
+
+.sign-in-now-container{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+
+.sign-in-button-2{
+    color: #e5e7eb;
+    background: #3882f6;
+    border: 2px solid white;
+    padding: 4px 12px;
+    border-radius: 8px;
+    font-weight: 900;
+}
+
+h3{
+    color: #e5e7eb;
+    font-weight: 900;
+}
+
+.sign-in-now-text{
+    color: #e5e7eb;
+
+}
+
+.footer-wrapper{
+    background:#1f2937;
+}
+
+.footer{
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    font-size: 18px;
+}
+
